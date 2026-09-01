@@ -11,6 +11,7 @@ function App() {
         <Layout />
       </main>
       <Footer />
+   
     </div>
   )
 }
